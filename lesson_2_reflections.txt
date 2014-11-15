@@ -1,0 +1,6 @@
+An empty git repository will be initialized.
+The hidden directory .git wil be created and the commit will be initial.
+
+The staging area is different from the working directory and the repository in that it has your current uncommitted changes in it.
+The value is has is that you can put all the files that belongs to one logic change in it before making the commit.
+
