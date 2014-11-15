@@ -1,0 +1,13 @@
+By showing only the differences between the two files, the output was short and concise and the bug was easy to spot.
+
+I can see in the history what kind of changes and/or errors I made.
+Avoiding them would be easier.
+
+git was made with programming in mind, so this way you can save a feature that may spam multiple files.
+google docs on the other hand was made for documentation.
+
+
+git log --stat -i --grep=revert
+
+
+I can always revert back to a stable and workable version.
