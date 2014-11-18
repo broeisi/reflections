@@ -4,3 +4,6 @@ The hidden directory .git wil be created and the commit will be initial.
 The staging area is different from the working directory and the repository in that it has your current uncommitted changes in it.
 The value is has is that you can put all the files that belongs to one logic change in it before making the commit.
 
+when you are working on a new feature, but don't want to mess with the current stabel version of your program or when you just want to test out something new.
+
+You can se exactly what is happening and where you are in the branch and what's included in the branch.
